@@ -1,0 +1,70 @@
+td a {
+    color: #d43f3a;
+}
+
+td a:hover {
+    color: #985f0d;
+    text-decoration: none;
+    cursor: pointer;
+}
+
+.navbar, .navbar-default {
+    background-color: #2e6da4 !important;
+}
+
+.navbar-default .navbar-nav > li > a {
+    color: #ffffff;
+}
+
+.navbar-default .navbar-nav > li > a:hover, .navbar-nav > li.active > a {
+    background-color: #985f0d !important;
+    color: #ffffff !important;
+}
+
+.top-bar {
+    height: 60px;
+}
+
+.sim-content {
+    height: 250px;
+    border: 1px solid #cccccc;
+    overflow: auto;
+    padding: 5px;
+}
+
+.sim-txt {
+    border: 0px;
+}
+
+.pointer {
+    cursor: pointer;
+}
+
+.fa {
+    color: #2E6DA4;
+}
+
+.fa-youtube-play {
+    cursor: pointer;
+}
+
+.gap {
+    height: 15px;
+}
+
+.highlight {
+    background-color: #337ab7;
+    color: #ffffff;
+}
+
+.status {
+    color: #985f0d;
+    font-weight: bold;
+}
+
+.console {
+    background: #101010;
+    color: #ffffff;
+    height: 400px;
+    overflow: auto;
+}
